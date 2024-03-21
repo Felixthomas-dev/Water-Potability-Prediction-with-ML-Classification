@@ -70,7 +70,7 @@ The Random Forest model, with its superior performance, is recommended for futur
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE.md), promoting free use, modification, and distribution of the software, ensuring that contributions are welcomed and recognized.
+This project is open source and available under the [MIT License](LICENSE), promoting free use, modification, and distribution of the software, ensuring that contributions are welcomed and recognized.
 
 ## How to Use
 
