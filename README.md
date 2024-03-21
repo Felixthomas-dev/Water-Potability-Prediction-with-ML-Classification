@@ -58,7 +58,16 @@ Each entry in the dataset represents a water sample analyzed based on the follow
 
 ## Methodology
 
-The methodology includes data pre-processing, exploration, outlier handling, and machine learning model training and evaluation, specifically focusing on KNN and Random Forest algorithms.
+The methodology encompasses data pre-processing, cleaning, exploration, and handling of missing values and outliers. Feature engineering is performed to standardize input variables, and the dataset is split into training and test sets. Finally, KNN and Random Forest Classification models are trained and evaluated.
+
+## Model Training and Evaluation
+
+Two machine learning models are explored:
+
+- **KNN**: A straightforward method that classifies water based on the majority vote of its nearest neighbors.
+- **Random Forest Classifier**: An ensemble technique that uses multiple decision trees to improve prediction accuracy.
+
+Performance metrics such as accuracy, precision, recall, and F1-score are used to evaluate the models.
 
 ## Results
 
